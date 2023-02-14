@@ -29,4 +29,4 @@ The `textColor` attribute is used to customize the color of the text in the tag.
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/alohe/made-with-love/blob/main/LICENSE) file for more information.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/alohe/made-with-love/blob/master/LICENSE) file for more information.
