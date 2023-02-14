@@ -24,6 +24,11 @@ const css = `
     transition: 0.5s;
 }
 .maker__tag.maker__tag__position--bottom-right {bottom: 10px;right: 10px;}
+.maker__tag.maker__tag__position--bottom-left {bottom: 10px;left: 10px;}
+.maker__tag.maker__tag__position--top-right {top: 10px;right: 10px;}
+.maker__tag.maker__tag__position--top-left {top: 10px;left: 10px;}
+.maker__tag.maker__tag__position--top-center {top: 10px;left: 50%;transform: translateX(-50%);}
+.maker__tag.maker__tag__position--bottom-center {bottom: 10px;left: 50%;transform: translateX(-50%);}
 @keyframes shine {
   100% {
     background-position: -200%;
