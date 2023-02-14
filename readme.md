@@ -8,7 +8,7 @@ To add the Made with Love widget to your website, simply add the following JavaS
 
 ```html
 <script 
-    src="https://cdn.jsdelivr.net/gh/alohe/made-with-love/made-with-love.js" 
+    src="https://cdn.jsdelivr.net/gh/alohe/made-with-love/src/made-with-love.min.js" 
     tagText="Made with ❤️ by Alohe" 
     tagLink="https://twitter.com/alemalohe" 
     tagPosition="bottom-right" 
