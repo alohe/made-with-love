@@ -8,9 +8,9 @@ To add the Made with Love widget to your website, simply add the following JavaS
 
 ```html
 <script 
-    src="https://cdn.jsdelivr.net/gh/alohe/maker-tag/maker-tag.js" 
+    src="https://cdn.jsdelivr.net/gh/alohe/made-with-love/made-with-love.js" 
     tagText="Made with ❤️ by Alohe" 
-    tagLink="" 
+    tagLink="https://twitter.com/alemalohe" 
     tagPosition="bottom-right" 
     background="black" 
     textColor="white">
@@ -29,4 +29,4 @@ The `textColor` attribute is used to customize the color of the text in the tag.
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/alohe/made-with-love/blob/main/LICENSE) file for more information.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/alohe/made-with-love/blob/master/LICENSE) file for more information.
